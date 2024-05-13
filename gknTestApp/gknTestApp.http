@@ -1,0 +1,6 @@
+@gknTestApp_HostAddress = http://localhost:5051
+
+GET {{gknTestApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

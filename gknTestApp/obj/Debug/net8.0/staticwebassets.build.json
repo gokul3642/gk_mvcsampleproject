@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kCs8xoeYw20t+A3SnSH0RfeqtCg8z8GcyBwmBPxFkws=",
+  "Source": "gknTestApp",
+  "BasePath": "_content/gknTestApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
